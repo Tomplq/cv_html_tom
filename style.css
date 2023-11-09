@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(255, 255, 255);
-  font-family: sans-serif;
+  background-color: rgb(199, 196, 183);
+  font-family: "Lato", sans-serif;
   color: rgb(0, 0, 0);
 }
 
@@ -9,12 +9,22 @@ body {
 }
 
 .section h2 {
-  background-color: beige;
+  background-color: rgb(195, 188, 154);
   color: #00bfff;
+  font-family: "Times New Roman", Times, serif;
   padding: 10px;
 }
 
 .section li {
   color: #4b4949;
   padding: 05px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+section > ul {
+  list-style-type: none;
 }

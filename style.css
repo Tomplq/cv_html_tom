@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  background-color: beige;
+  color: #00bfff;
+  padding: 10px;
+}
+
+.section li {
+  color: #4b4949;
+  padding: 05px;
+}
